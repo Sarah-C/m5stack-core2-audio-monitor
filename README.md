@@ -11,7 +11,7 @@ I can confirm the mic in this unit works well with the software. =)
 
   -- SarahC
 
-* 1 The updated board ensures the correct Core 2 IO pins are used in the port plugs, the "Bottom" clashed with the PSRAM connections - there's some forum posts about losing port use on the Core 2
+* 1 The updated board ensures the correct Core 2 IO pins are used in the port plugs, the "Bottom" clashed with the PSRAM connections - there's some forum posts about losing port use on the Core 2 when people plugged their "Bottoms" in. -grins-
 
 * 2 Odd that the base didn't have a slot for the existing mic/gyroscope!? I guess it was designed on a Friday afternoon.
 ----------------------
