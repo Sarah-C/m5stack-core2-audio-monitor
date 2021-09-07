@@ -4,6 +4,8 @@ Just download the folder, open the AudioMonitor.ino file, and hit "Upload".
 
 I've done no coding - this is merely a reconfiguring of the code files to compile under the Arduino IDE. (Though getting the paths for the subfolders right for Arduino is a complete PITA.)
 
+  -- SarahC
+
 ----------------------
 
 You can watch a video explainer [here (YouTube)](https://www.youtube.com/watch?v=CwIWpBqa-nM) which goes into a bit more detail on the audio capabilities of the device.
