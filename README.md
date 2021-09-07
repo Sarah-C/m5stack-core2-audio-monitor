@@ -1,4 +1,9 @@
-# M5Stack Core 2 Audio
+# M5Stack Core 2 Audio - Arduino IDE Version!
+This Fork of the excellent Audio Visualiser by Chris G is a "Download and Upload" single click version of the code for the Arduino. The original compiles via PlatformIO.
+Just download the folder, open the AudioMonitor.ino file, and hit "Upload".
+
+
+----------------------
 
 You can watch a video explainer [here (YouTube)](https://www.youtube.com/watch?v=CwIWpBqa-nM) which goes into a bit more detail on the audio capabilities of the device.
 
