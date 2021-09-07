@@ -5,8 +5,15 @@ There's no extra configuring to be done - just download the folder, open the Aud
 
 I've done no coding - this is merely a reconfiguring of the code files to compile under the Arduino IDE. (Though getting the paths for the subfolders right for Arduino is a complete PITA.)
 
+My Core 2 has the "Bottom 2" board (*1), that integrates NeoPixels along with a mic and gyroscope. (*2)
+https://shop.m5stack.com/products/m5go-battery-bottom2-for-core2-only
+I can confirm the mic in this unit works well with the software. =)
+
   -- SarahC
 
+*1 The updated board ensures the correct Core 2 IO pins are used in the port plugs, the "Bottom" clashed with the PSRAM connections - there's some forum posts about losing port use on the Core 2
+
+*2 Odd that the base didn't have a slot for the existing mic/gyroscope!? I guess it was designed on a Friday afternoon.
 ----------------------
 
 You can watch a video explainer [here (YouTube)](https://www.youtube.com/watch?v=CwIWpBqa-nM) which goes into a bit more detail on the audio capabilities of the device.
