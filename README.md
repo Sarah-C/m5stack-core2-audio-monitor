@@ -14,7 +14,7 @@ You can watch a video explainer [here (YouTube)](https://www.youtube.com/watch?v
 
 This project is a nice little demo of audio on the M5Stack Core 2 with some simple visualisations.
 
-~~You'll need to use PlatformIO to build the project.
+~~You'll need to use PlatformIO to build the project.~~
 
 Hopefully, the code should be easy to understand.
 
